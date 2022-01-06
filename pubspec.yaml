@@ -132,6 +132,9 @@ dev_dependencies:
   pay: 0.0.1
 
 
+
+
+
 flutter_icons:
   image_path: 'assets/images/launcher_ic.png'
   android: true
