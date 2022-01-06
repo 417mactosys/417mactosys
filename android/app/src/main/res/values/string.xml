@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiloTV</string>
+    <string name="facebook_app_id">911212132980175</string>
+    <string name="fb_login_protocol_scheme">fb911212132980175</string>
+</resources>

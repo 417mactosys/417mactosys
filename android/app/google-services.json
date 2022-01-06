@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "649924397427",
+    "firebase_url": "https://wilotv-a68a5-default-rtdb.firebaseio.com",
+    "project_id": "wilotv-a68a5",
+    "storage_bucket": "wilotv-a68a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649924397427:android:a983e6ee4a06365c3a1d06",
+        "android_client_info": {
+          "package_name": "com.sataware.wilotv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649924397427-hga7g22vh2a1fdd653cq1ehvfcv5ldot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.wilotv",
+            "certificate_hash": "f29b5575ec9a4964f136f14795813f8baf662c36"
+          }
+        },
+        {
+          "client_id": "649924397427-aofh364jcu11v96o5g5dok00p5aj5pef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2UweyDmZ7dj7BuXw-sk7uriT8v_CRB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649924397427-4vtoqrpp6cmpqqjaundesgn3ncv3f0e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649924397427-bcpl9ps683rscpldlloqv4evjrpn2i53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sataware.wilotv1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649924397427:android:9f6d4aa21c7e8e293a1d06",
+        "android_client_info": {
+          "package_name": "com.sataware.wilotv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649924397427-bsurofibkal8cbt1iin0luavhsv8odcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.wilotv1",
+            "certificate_hash": "f29b5575ec9a4964f136f14795813f8baf662c36"
+          }
+        },
+        {
+          "client_id": "649924397427-aofh364jcu11v96o5g5dok00p5aj5pef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2UweyDmZ7dj7BuXw-sk7uriT8v_CRB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649924397427-4vtoqrpp6cmpqqjaundesgn3ncv3f0e5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649924397427-bcpl9ps683rscpldlloqv4evjrpn2i53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sataware.wilotv1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>649924397427-bcpl9ps683rscpldlloqv4evjrpn2i53.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.649924397427-bcpl9ps683rscpldlloqv4evjrpn2i53</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>649924397427-3pe152dqi34o1nlbn6ll27ob3q24kj27.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8y_YzPzEThDf2vnCXORjiaMxPY9_ffgo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>649924397427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sataware.wilotv1</string>
+	<key>PROJECT_ID</key>
+	<string>wilotv-a68a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wilotv-a68a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:649924397427:ios:314e1db84868f5ad3a1d06</string>
+	<key>DATABASE_URL</key>
+	<string>https://wilotv-a68a5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
